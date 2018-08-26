@@ -1,4 +1,9 @@
 # vue-wechat-menu
+
+## demo图片
+![Image text](https://github.com/Summer-Lin/vue-wechat-menu/blob/master/src/assets/demo.png)
+
+
 ## 内容
   > 用vue写的一个微信公众号菜单配置
   

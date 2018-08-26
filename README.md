@@ -3,6 +3,9 @@
 ## demo图片
 ![Image text](https://github.com/Summer-Lin/vue-wechat-menu/blob/master/src/assets/demo.png)
 
+## demo链接
+ [vue仿微信公众号配置](https://summer-lin.github.io/vue-wechat-menu-demo/#/)
+
 
 ## 内容
   > 用vue写的一个微信公众号菜单配置
